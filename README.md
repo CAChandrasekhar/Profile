@@ -6,5 +6,5 @@
 - 📂 My Tableau public profile https://public.tableau.com/app/profile/chandrasekhar5342#!/
 
 
-🛠  Tech Stack
-Python  NumPy  Pandas SQL Tableau  Excel 
+-🛠  Tech Stack
+-Python  NumPy  Pandas SQL Tableau  Excel 
