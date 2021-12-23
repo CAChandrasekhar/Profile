@@ -5,6 +5,3 @@
 - 📫 You can reach me at cachandrasekharm@gmail.com or through LinkedIn www.linkedin.com/in/chandrasekhar-ca
 - 📂 My Tableau public profile https://public.tableau.com/app/profile/chandrasekhar5342#!/
 
-- Languages and Tools:
-- matlab mysql pandas scikit_learn seaborn
-
